@@ -23,7 +23,7 @@ $l['bottomlinks_syndication'] = "Sindicación RSS";
 $l['bottomlinks_litemode'] = "Archivo (Modo simple)";
 $l['bottomlinks_markread'] = "Marcar foros como leídos";
 
-$l['welcome_usercp'] = "Panel de control";
+$l['welcome_usercp'] = "Panel de control"; // is problem no working language why "settings"
 $l['welcome_modcp'] = "Panel de moderación";
 $l['welcome_admin'] = "Panel de administración";
 $l['welcome_logout'] = "Cerrar sesión";
